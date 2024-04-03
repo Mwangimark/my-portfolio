@@ -566,6 +566,12 @@ small {
   background-color: #00695c !important;
 } */
 
+.comskills{
+  border: 2px solid white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
 @media (min-width: 1200px) {
   #experience .container {
     width: 860px;
